@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on DSA, LUG_OS
-- 🌱 I’m currently learning JavaScript, Flutter
+- 🌱 I’m currently learning JavaScript, Flutter, Rust
 - 💬 Ask me about Linux, Pop Culture, Music
 - 📫 Mail: yeyatiprasher@gmail.com
 - ❎ Twitter(X): @blacksword0066
