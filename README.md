@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript, Flutter, Rust
 - 💬 Ask me about Linux, Pop Culture, Music
 - 📫 Mail: yeyatiprasher@gmail.com
-- ❎ Twitter(X): @blacksword0066
+- ❎ Twitter(X): [@blacksword0066](https://twitter.com/blacksword0066)
 - 🖥️  LinkedIn: https://www.linkedin.com/in/yeyati-prasher-b5981127a/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can beatbox!
