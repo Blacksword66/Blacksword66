@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on DSA, LUG_OS
-- 🌱 I’m currently learning JavaScript, Flutter, Rust
+- 🔭 I’m currently working on secret stuff 🤫
+- 🌱 I’m currently learning about ML, LLMs, NLP
 - 💬 Ask me about Linux, Pop Culture, Music
 - 📫 Mail: yeyatiprasher@gmail.com
 - ❎ Twitter(X): [@blacksword0066](https://twitter.com/blacksword0066)
