@@ -6,8 +6,6 @@
 - 🖥️ LinkedIn: https://www.linkedin.com/in/yeyati-prasher-b5981127a/
 - 🌐 Website: https://yeyatiprasher.vercel.app/
 - 😄 Pronouns: He/Him
-- 💼 Open for internships
-- ⚡ Fun fact: I can beatbox!
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
